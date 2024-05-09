@@ -4,4 +4,7 @@ Implementing Dijsktra algorithm to get the shortest path between two nodes.Doing
 
 This study investigates the implementation and comparative performance of Dijkstra's algorithm using Pythonbased methods and Neo4j database integrated with the APOClibrary. The custom priority queue-based Python approach and Python’s NetworkX library exhibit linear runtime dependencies, with NetworkX showcasing superior efficiency. In contrast, Neo4j's APOC library consistently outperforms in computational efficiency, especially in larger graph settings. Despite its robust performance, APOC displays algorithmic runtime variability, potentially linked to caching or other database features. These results emphasize the nuanced decision-making process when choosing between Python-based solutions and database-specific tools for optimal graph processing in diverse applications. The study sheds light on the intricate trade-offs inherent in selecting appropriate tools for effective graph algorithm implementation and optimization.
 
+![image](https://github.com/shanunrandev123/Shortest_path_algorithm/assets/49170258/e3d65381-c5b6-4df9-aaad-35c16f9aeea8)
+
+
 
